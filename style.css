@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 500px;
+}
+.row-grid {
+    display: flex;
+    flex: 1 1 auto;
+    border: 0.1px solid black;
+}
+.column-grid {
+    flex: 1 1 auto;
+    border: 0.1px solid black;
+}
